@@ -9,10 +9,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-/** @Author FangGang
- * 创建日期 2018/4/28 10:05.
- * 文件描述:{@link Toast}提示简单封装
- */
+
 public class ToastUtil {
 
   private static Toast result;
